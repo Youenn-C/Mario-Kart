@@ -63,8 +63,13 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Terrain.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Script\ItemLaunchable.cs" />
+    <Compile Include="Assets\Script\ItemChampignon.cs" />
+    <Compile Include="Assets\Script\Item.cs" />
     <Compile Include="Assets\Script\CarControler.cs" />
     <Compile Include="Assets\Script\RaycastDetecting.cs" />
+    <Compile Include="Assets\Script\ItemBox.cs" />
+    <Compile Include="Assets\Script\PlayerItemManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
